@@ -1,0 +1,1 @@
+﻿lpadmin -p "[name for printer]" -v ipp://[printer's ip address/ipp/print -P /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/Resources/Generic.ppd -o printer-is-shared=false -o APOptionalDuplexer=True -E
